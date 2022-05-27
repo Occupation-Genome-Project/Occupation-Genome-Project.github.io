@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Occupation Genome Project on Occupation-Genome-Project</title><link>https://Occupation-Genome-Project.github.io/blog/Occupation-Genome-Project/</link><description>Recent content in Occupation Genome Project on Occupation-Genome-Project</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 08 May 2022 08:45:28 +0800</lastBuildDate><atom:link href="https://Occupation-Genome-Project.github.io/blog/Occupation-Genome-Project/index.xml" rel="self" type="application/rss+xml"/><item><title>Heritability Estimation</title><link>https://Occupation-Genome-Project.github.io/blog/Occupation-Genome-Project/Heritability-Estimation/</link><pubDate>Fri, 27 May 2022 14:22:22 +0800</pubDate><guid>https://Occupation-Genome-Project.github.io/blog/Occupation-Genome-Project/Heritability-Estimation/</guid><description>&lt;h1 id="overall">Overall&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Phenotype&lt;/th>
+&lt;th>95% Confident Interval&lt;/th>
+&lt;th>Standard Error&lt;/th>
+&lt;th>p-value&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Leadership position&lt;/td>
+&lt;td>0.012 0.019&lt;/td>
+&lt;td>0.002&lt;/td>
+&lt;td>1.67E-18&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Managing demands&lt;/td>
+&lt;td>0.040 0.052&lt;/td>
+&lt;td>0.003&lt;/td>
+&lt;td>3.47E-49&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Complexity&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Autonomy&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Innovation&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Information demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Emotional demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Physical demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="male">Male&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Phenotype&lt;/th>
+&lt;th>95% Confident Interval&lt;/th>
+&lt;th>Standard Error&lt;/th>
+&lt;th>p-value&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Leadership position&lt;/td>
+&lt;td>0.008 0.022&lt;/td>
+&lt;td>0.004&lt;/td>
+&lt;td>2.14E-05&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Managing demands&lt;/td>
+&lt;td>0.026 0.045&lt;/td>
+&lt;td>0.005&lt;/td>
+&lt;td>1.20E-13&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Complexity&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Autonomy&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Innovation&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Information demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Emotional demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Physical demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="female">Female:&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Phenotype&lt;/th>
+&lt;th>95% Confident Interval&lt;/th>
+&lt;th>Standard Error&lt;/th>
+&lt;th>p-value&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Leadership position&lt;/td>
+&lt;td>0.006 0.019&lt;/td>
+&lt;td>0.003&lt;/td>
+&lt;td>1.87E-04&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Managing demands&lt;/td>
+&lt;td>0.051 0.071&lt;/td>
+&lt;td>0.005&lt;/td>
+&lt;td>1.75E-31&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Complexity&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Autonomy&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Innovation&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Information demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Emotional demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Physical demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Summary Statistics</title><link>https://Occupation-Genome-Project.github.io/blog/Occupation-Genome-Project/Summary-Statistics/</link><pubDate>Fri, 27 May 2022 14:14:45 +0800</pubDate><guid>https://Occupation-Genome-Project.github.io/blog/Occupation-Genome-Project/Summary-Statistics/</guid><description>&lt;h1 id="overall">Overall&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Phenotype&lt;/th>
+&lt;th>Download link&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Leadership position&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Managing demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Complexity&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Autonomy&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Innovation&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Information demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Emotional demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Physical demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="male">Male&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Phenotype&lt;/th>
+&lt;th>Download link&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Leadership position&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Managing demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Complexity&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Autonomy&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Innovation&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Information demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Emotional demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Physical demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h1 id="female">Female&lt;/h1>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Phenotype&lt;/th>
+&lt;th>Download link&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Leadership position&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Managing demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Complexity&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Autonomy&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Innovation&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Information demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Emotional demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Physical demands&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>
