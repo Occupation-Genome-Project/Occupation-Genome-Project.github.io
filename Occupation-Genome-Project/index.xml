@@ -120,7 +120,7 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;h1 id="female">Female:&lt;/h1>
+&lt;h1 id="female">Female&lt;/h1>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -191,7 +191,7 @@
 &lt;tbody>
 &lt;tr>
 &lt;td>Leadership position&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;a href="https://nusjobgmdata-public.s3.ap-southeast-1.amazonaws.com/data-for-the-web/example.rar">summary_statistic&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Managing demands&lt;/td>
