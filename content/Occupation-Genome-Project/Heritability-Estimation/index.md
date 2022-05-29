@@ -37,7 +37,7 @@ tag: [""]
 | Emotional demands   |                        |                |          |
 | Physical demands    |                        |                |          |
 
-# Female:
+# Female
 
 | Phenotype           | 95% Confident Interval | Standard Error | p-value  |
 |---------------------|------------------------|----------------|----------|

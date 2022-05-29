@@ -11,16 +11,16 @@ tag: [""]
 
 # Overall
 
-| Phenotype           | Download link |
-|---------------------|---------------|
-| Leadership position |               |
-| Managing demands    |               |
-| Complexity          |               |
-| Autonomy            |               |
-| Innovation          |               |
-| Information demands |               |
-| Emotional demands   |               |
-| Physical demands    |               |
+| Phenotype           | Download link                                                                                                 |
+|---------------------|---------------------------------------------------------------------------------------------------------------|
+| Leadership position | [summary_statistic](https://nusjobgmdata-public.s3.ap-southeast-1.amazonaws.com/data-for-the-web/example.rar) |
+| Managing demands    |                                                                                                               |
+| Complexity          |                                                                                                               |
+| Autonomy            |                                                                                                               |
+| Innovation          |                                                                                                               |
+| Information demands |                                                                                                               |
+| Emotional demands   |                                                                                                               |
+| Physical demands    |                                                                                                               |
 
 # Male
 
