@@ -199,27 +199,27 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Complexity&lt;/td>
-&lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;a href="https://nusjobgmdata-public.s3.ap-southeast-1.amazonaws.com/data-for-the-web/UKBB_Complexity_overall.txt.gz">summary_statistic&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Autonomy&lt;/td>
-&lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;a href="https://nusjobgmdata-public.s3.ap-southeast-1.amazonaws.com/data-for-the-web/UKBB_Autonomy_overall.txt.gz">summary_statistic&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Innovation&lt;/td>
-&lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;a href="https://nusjobgmdata-public.s3.ap-southeast-1.amazonaws.com/data-for-the-web/UKBB_Innovation_overall.txt.gz">summary_statistic&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Information demands&lt;/td>
-&lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;a href="https://nusjobgmdata-public.s3.ap-southeast-1.amazonaws.com/data-for-the-web/UKBB_Information_demands_overall.txt.gz">summary_statistic&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Emotional demands&lt;/td>
-&lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;a href="https://nusjobgmdata-public.s3.ap-southeast-1.amazonaws.com/data-for-the-web/UKBB_Emotional_demands_overall.txt.gz">summary_statistic&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:left">Physical demands&lt;/td>
-&lt;td style="text-align:right">&lt;/td>
+&lt;td style="text-align:right">&lt;a href="https://nusjobgmdata-public.s3.ap-southeast-1.amazonaws.com/data-for-the-web/UKBB_Physical_demands_overall.txt.gz">summary_statistic&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
