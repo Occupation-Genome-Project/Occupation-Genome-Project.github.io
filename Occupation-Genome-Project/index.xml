@@ -184,42 +184,42 @@
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Phenotype&lt;/th>
-&lt;th>Download link&lt;/th>
+&lt;th style="text-align:left">Phenotype&lt;/th>
+&lt;th style="text-align:right">Download link&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Leadership position&lt;/td>
-&lt;td>&lt;a href="https://nusjobgmdata-public.s3.ap-southeast-1.amazonaws.com/data-for-the-web/example.rar">summary_statistic&lt;/a>&lt;/td>
+&lt;td style="text-align:left">Leadership position&lt;/td>
+&lt;td style="text-align:right">&lt;a href="https://nusjobgmdata-public.s3.ap-southeast-1.amazonaws.com/data-for-the-web/example.rar">summary_statistic&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Managing demands&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Managing demands&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Complexity&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Complexity&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Autonomy&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Autonomy&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Innovation&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Innovation&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Information demands&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Information demands&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Emotional demands&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Emotional demands&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Physical demands&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Physical demands&lt;/td>
+&lt;td style="text-align:right">&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -227,42 +227,33 @@
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Phenotype&lt;/th>
-&lt;th>Download link&lt;/th>
+&lt;th style="text-align:left">Phenotype&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Leadership position&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Leadership position&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Managing demands&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Managing demands&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Complexity&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Complexity&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Autonomy&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Autonomy&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Innovation&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Innovation&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Information demands&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Information demands&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Emotional demands&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Emotional demands&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Physical demands&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Physical demands&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -270,42 +261,33 @@
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Phenotype&lt;/th>
-&lt;th>Download link&lt;/th>
+&lt;th style="text-align:left">Phenotype&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Leadership position&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Leadership position&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Managing demands&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Managing demands&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Complexity&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Complexity&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Autonomy&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Autonomy&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Innovation&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Innovation&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Information demands&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Information demands&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Emotional demands&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Emotional demands&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Physical demands&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align:left">Physical demands&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table></description></item></channel></rss>
