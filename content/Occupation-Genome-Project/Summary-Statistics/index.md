@@ -11,8 +11,8 @@ tag: [""]
 
 # Overall
 
-| Phenotype           | Download link                                                                                                 |
-|---------------------|---------------------------------------------------------------------------------------------------------------|
+| Phenotype           |                                                                                                 Download link |
+|:--------------------|--------------------------------------------------------------------------------------------------------------:|
 | Leadership position | [summary_statistic](https://nusjobgmdata-public.s3.ap-southeast-1.amazonaws.com/data-for-the-web/example.rar) |
 | Managing demands    |                                                                                                               |
 | Complexity          |                                                                                                               |
@@ -24,26 +24,26 @@ tag: [""]
 
 # Male
 
-| Phenotype           | Download link |
-|---------------------|---------------|
-| Leadership position |               |
-| Managing demands    |               |
-| Complexity          |               |
-| Autonomy            |               |
-| Innovation          |               |
-| Information demands |               |
-| Emotional demands   |               |
-| Physical demands    |               |
+| Phenotype           |
+|:--------------------|
+| Leadership position |
+| Managing demands    |
+| Complexity          |
+| Autonomy            |
+| Innovation          |
+| Information demands |
+| Emotional demands   |
+| Physical demands    |
 
 # Female
 
-| Phenotype           | Download link |
-|---------------------|---------------|
-| Leadership position |               |
-| Managing demands    |               |
-| Complexity          |               |
-| Autonomy            |               |
-| Innovation          |               |
-| Information demands |               |
-| Emotional demands   |               |
-| Physical demands    |               |
+| Phenotype           |
+|:--------------------|
+| Leadership position |
+| Managing demands    |
+| Complexity          |
+| Autonomy            |
+| Innovation          |
+| Information demands |
+| Emotional demands   |
+| Physical demands    |
