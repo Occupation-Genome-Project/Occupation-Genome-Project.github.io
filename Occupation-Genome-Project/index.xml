@@ -3,7 +3,7 @@
 &lt;thead>
 &lt;tr>
 &lt;th>Phenotype&lt;/th>
-&lt;th>$H^2$&lt;/th>
+&lt;th>H&lt;sup>2&lt;/sup>&lt;/th>
 &lt;th>Standard Error&lt;/th>
 &lt;th>p-value&lt;/th>
 &lt;/tr>
